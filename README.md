@@ -55,6 +55,11 @@ We suggest you don't spend more than 2h on this challenge.
 - `{note_2}`
 - `…`
 - `{note_n}`
+- `Added Typescript and Added type for recipe`
+- `TODO: Define types for all objects in RecipesView`
+- `TODO: Create utility file for converting language`
+- `Changed User from being within state object to being in its own hook`
+- `Left comments on what needs to be refactored next`
 
 ## Submission
 
